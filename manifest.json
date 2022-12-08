@@ -4,8 +4,7 @@
   "lang": "en",
   "name": "StickerSmashh",
   "short_name": "StickerSmashh",
-  "start_url": "https://kavosh-m.github.io/pwatestapp/",
-  "scope": "/",
+  "start_url": ".",
   "orientation": "portrait",
   "icons": [
     {
