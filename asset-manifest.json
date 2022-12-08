@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/pwatestapp/static/js/app.9fb2eb28.chunk.js",
-    "app.js.map": "/pwatestapp/static/js/app.9fb2eb28.chunk.js.map",
+    "app.js": "/pwatestapp/static/js/app.d908b486.chunk.js",
+    "app.js.map": "/pwatestapp/static/js/app.d908b486.chunk.js.map",
     "runtime~app.js": "/pwatestapp/static/js/runtime~app.f961daae.js",
     "runtime~app.js.map": "/pwatestapp/static/js/runtime~app.f961daae.js.map",
     "static/js/2.c60dcb90.chunk.js": "/pwatestapp/static/js/2.c60dcb90.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime~app.f961daae.js",
     "static/js/2.c60dcb90.chunk.js",
-    "static/js/app.9fb2eb28.chunk.js"
+    "static/js/app.d908b486.chunk.js"
   ]
 }
