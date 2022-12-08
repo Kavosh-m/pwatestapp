@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/pwatestapp/static/js/app.4e56d9a7.chunk.js",
-    "app.js.map": "/pwatestapp/static/js/app.4e56d9a7.chunk.js.map",
+    "app.js": "/pwatestapp/static/js/app.d908b486.chunk.js",
+    "app.js.map": "/pwatestapp/static/js/app.d908b486.chunk.js.map",
     "runtime~app.js": "/pwatestapp/static/js/runtime~app.f961daae.js",
     "runtime~app.js.map": "/pwatestapp/static/js/runtime~app.f961daae.js.map",
-    "static/js/2.12dff3e0.chunk.js": "/pwatestapp/static/js/2.12dff3e0.chunk.js",
-    "static/js/2.12dff3e0.chunk.js.map": "/pwatestapp/static/js/2.12dff3e0.chunk.js.map",
+    "static/js/2.c60dcb90.chunk.js": "/pwatestapp/static/js/2.c60dcb90.chunk.js",
+    "static/js/2.c60dcb90.chunk.js.map": "/pwatestapp/static/js/2.c60dcb90.chunk.js.map",
     "favicon-16.png": "/pwatestapp/favicon-16.png",
     "favicon-32.png": "/pwatestapp/favicon-32.png",
     "favicon.ico": "/pwatestapp/favicon.ico",
@@ -13,12 +13,12 @@
     "manifest.json": "/pwatestapp/manifest.json",
     "serve.json": "/pwatestapp/serve.json",
     "service-worker.js.map": "/pwatestapp/service-worker.js.map",
-    "static/js/2.12dff3e0.chunk.js.LICENSE.txt": "/pwatestapp/static/js/2.12dff3e0.chunk.js.LICENSE.txt",
+    "static/js/2.c60dcb90.chunk.js.LICENSE.txt": "/pwatestapp/static/js/2.c60dcb90.chunk.js.LICENSE.txt",
     "static/media/background-image.png": "/pwatestapp/static/media/background-image.979cd865.png"
   },
   "entrypoints": [
     "static/js/runtime~app.f961daae.js",
-    "static/js/2.12dff3e0.chunk.js",
-    "static/js/app.4e56d9a7.chunk.js"
+    "static/js/2.c60dcb90.chunk.js",
+    "static/js/app.d908b486.chunk.js"
   ]
 }
