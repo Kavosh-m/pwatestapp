@@ -5,6 +5,7 @@
   "name": "StickerSmashh",
   "short_name": "StickerSmashh",
   "start_url": "/?utm_source=web_app_manifest",
+  "scope": "/",
   "orientation": "portrait",
   "icons": [
     {
